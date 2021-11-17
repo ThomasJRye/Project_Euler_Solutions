@@ -1,4 +1,4 @@
 # Project_Euler_Solutions
 
-Solution to:
+Solutions to:
 https://projecteuler.net/
