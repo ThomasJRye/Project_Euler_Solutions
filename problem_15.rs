@@ -1,3 +1,6 @@
+use std::collections::HashMap;
+
+
 pub fn main(size: i64) -> i64 {
     let mut nodes = HashMap::new();
 
